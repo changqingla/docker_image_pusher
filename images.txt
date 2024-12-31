@@ -2,3 +2,5 @@ infiniflow/infinity:v0.5.0-dev6
 valkey/valkey:8
 infiniflow/ragflow:v0.14.1
 infiniflow/ragflow_deps:latest
+mylxsw/aidea-server:1.0.14
+mylxsw/aidea-web:1.0.14
