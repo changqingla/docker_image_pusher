@@ -1,2 +1,1 @@
-lmsysorg/sglang:latest
-mintplexlabs/anythingllm
+infiniflow/ragflow:v0.16.0
