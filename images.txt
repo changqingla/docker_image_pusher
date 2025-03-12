@@ -1,2 +1,2 @@
 lmsysorg/sglang:latest
-infiniflow/ragflow:nightly
+infiniflow/ragflow:v0.17.1
