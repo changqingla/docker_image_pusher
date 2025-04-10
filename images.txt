@@ -1,2 +1,1 @@
-mysql:8.0.39
-infiniflow/ragflow:v0.17.2
+python:3.9-slim
