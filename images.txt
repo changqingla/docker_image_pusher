@@ -1,2 +1,1 @@
-infiniflow/ragflow:v0.18.0
-node:16-alpine
+ghcr.io/astral-sh/uv:python3.12-bookworm
