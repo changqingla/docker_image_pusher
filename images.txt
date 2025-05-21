@@ -1,2 +1,3 @@
 ghcr.io/astral-sh/uv:python3.12-bookworm
 node:20-alpine
+gcr.io/distroless/nodejs20-debian12
