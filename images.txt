@@ -1,1 +1,1 @@
-langgraph-api:3.11
+langchain/langgraph-api:3.11
