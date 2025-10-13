@@ -1,1 +1,1 @@
-langchain/langgraph-api:3.11
+docker.m.daocloud.io/vllm/vllm-openai:v0.10.1.1
