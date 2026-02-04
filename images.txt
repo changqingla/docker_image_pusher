@@ -1,1 +1,1 @@
-pgvector/pgvector:pg16
+golang:1.21-alpine
