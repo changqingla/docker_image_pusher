@@ -1,1 +1,1 @@
-golang:1.21-alpine
+node:20-slim
