@@ -1,1 +1,1 @@
-vllm/vllm-openai:nightly
+node:22-alpine
