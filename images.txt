@@ -1,1 +1,1 @@
-quay.io/ascend/vllm-ascend:v0.17.0rc1
+docker.io/nvidia/cuda:12.9.1-cudnn-runtime-ubuntu24.04
