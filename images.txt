@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+ghcr.io/ggml-org/llama.cpp:server-cuda-b8943
